@@ -1,0 +1,23 @@
+@import 'variable';
+
+
+h1{
+    color:$red-color;
+}
+
+.test{
+    color:$blue-color;
+    background-color: yellow;
+}
+.hi{
+    color:orange;
+
+}
+
+#ids{
+    color: green;
+}
+
+#lee{
+    font-size: 16px;
+}
